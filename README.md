@@ -35,3 +35,6 @@ The app allows users to speak through their microphone, and the recognized text 
 ---
 
 ## 📂 Project Structure
+├── main.py # Main application file
+├── style.py # Styling configuration (colors, fonts, emojis)
+└── README.md # Project documentation
