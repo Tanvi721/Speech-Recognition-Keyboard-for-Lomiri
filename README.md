@@ -5,10 +5,6 @@
 
 
 
-
-
-
-
 # 🎙️ Voice to Text Chat
 
 A simple **Voice-to-Text Chat Application** built using **Python**, **Tkinter** for GUI, and **SpeechRecognition** for converting speech into text.  
@@ -33,8 +29,16 @@ The app allows users to speak through their microphone, and the recognized text 
 - **Threading** (to run recognition in the background)
 
 ---
+## ▶️ How to Run
+
+- Clone this repository or download the project files.
+- Install dependencies:
+  pip install -r requirements.txt
+(Create a requirements.txt with dependencies: SpeechRecognition, pyaudio)
+- Run the app:
+  python main.py
 
 ## 📂 Project Structure
-├── main.py # Main application file
-├── style.py # Styling configuration (colors, fonts, emojis)
-└── README.md # Project documentation
++ main.py # Main application file
++  style.py # Styling configuration (colors, fonts, emojis)
++ README.md # Project documentation
